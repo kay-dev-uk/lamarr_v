@@ -2,5 +2,6 @@
 - Git was invented by Linus Torvalds
 - DCVS
 
-yes - > main
-no -> master
+## Name of Default Branch
+- used to be `master` in the past
+- now we use `main` instead
