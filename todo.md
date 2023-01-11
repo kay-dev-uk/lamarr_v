@@ -1,9 +1,9 @@
 ## Git
 - [x] definition
 - [x] centralised vs distributed
-- [ ] concepts and benefits
-- [ ] git init, git flow
-- [ ] git branch (git switc)
+- [x] concepts and benefits
+- [x] git init, git add and git commit
+- [ ] git branch (git switch)
 - [ ] git merge
 - [ ] merge conflicts
 ## GitHub
